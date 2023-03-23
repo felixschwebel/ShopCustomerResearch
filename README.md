@@ -20,6 +20,7 @@ A project to practice different Machine Learning Techniques on customer data of 
 - Decision Tree Classification 
 - Random Forest Classification 
 
-
+**Deep Learning**
+- ANN
 
 [**Data by SHRUTI_IYYER from Kaggle**](https://www.kaggle.com/datasets/shrutimechlearn/customer-data)
