@@ -1,5 +1,5 @@
 # ShopCustomerResearch
-A project to practice different Machine Learning Techniques on customer data of a imaginative shop.
+A project to practice different Machine Learning Techniques and models on customer data of an imaginative shop.
 
 **Clustering**
 - KMeans 
